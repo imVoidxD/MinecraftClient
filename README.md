@@ -1,3 +1,6 @@
+# Fork info
+This repo was was forked from brokeim's MinecraftClient to help imporve the bot and contribute into the project
+
 # MinecraftClient
 
 This project is a Minecraft client Discord bot for bedrock edition written in javascript with PrismarineJS protocollib
